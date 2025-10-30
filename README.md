@@ -62,14 +62,9 @@ dotnet restore
 dotnet run
 ```
 💻 Frontend Setup
-
-No build tools needed — just open the file directly:
+```
 cd frontend
-
-🔌 API Endpoints
-Method	Endpoint	Description
-POST	/api/url/shorten	Shortens a long URL
-GET	/api/url/{id}	Redirects to original URL
+```
 
 🧠 Code Highlights
 
