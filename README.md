@@ -6,7 +6,7 @@ It allows users to shorten long URLs and redirect from short links to the origin
 ---
 
 ## 🧩 Project Structure
-
+```
 url-shortener/
 │
 ├── backend/
@@ -24,7 +24,7 @@ url-shortener/
 └── frontend/
 ├── index.html
 ├── app.js
-└── style.css (optional)
+```
 
 ---
 
