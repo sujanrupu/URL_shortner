@@ -60,7 +60,7 @@ url-shortener/
 cd backend
 dotnet restore
 dotnet run
-
+```
 💻 Frontend Setup
 
 No build tools needed — just open the file directly:
